@@ -1,1 +1,7 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Travel Colour 
+Travel Colour allows UK tourists to navigate entry restrictions and quarantine requirements for over 40 destinations
+
+# Technologies 
+Ruby on Rails, JavaScript, Web scrapers, D3interactive maps.
+
+# Launch
