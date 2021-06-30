@@ -3,5 +3,3 @@
 
 # Technologies 
 Ruby on Rails, JavaScript, Web scrapers, D3interactive maps.
-
-# Launch
